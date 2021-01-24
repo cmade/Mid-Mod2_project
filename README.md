@@ -8,6 +8,8 @@ Data hard coded from the github api.
 
 Wireframe created using Figma: https://www.figma.com/file/IX2vOv4iitso6jQvbIQyAj/Wireframe_Mid_Mod2_Project?node-id=0%3A1
 
+![GitHub Profiles](/public/Mid-Mod2_project_wireframe.svg)
+
 # The approach was taken
 
 There was a mixture of functional and class based components used in the project.
