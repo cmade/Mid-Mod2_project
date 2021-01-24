@@ -20,11 +20,12 @@ I wanted to use the api to update the state, but will implement this in the futu
 
 # User stories
 
-1. User Story: Create a navbar component.
-2. User Story: Create a user component to house the state and map through the state while passing the data to the user item component.
-3. User Story: Create a user item component to display each github profile user.
-4. Initialize github repo
-5. Deploy to Heroku
+1. User Story: Create wireframe in Figma
+2. User Story: Create a navbar component.
+3. User Story: Create a user component to house the state and map through the state while passing the data to the user item component.
+4. User Story: Create a user item component to display each github profile user.
+5. Initialize github repo
+6. Deploy to Heroku
 
 # Notes
 
