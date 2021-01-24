@@ -2,14 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Font Awesome was also used.
+[Font Awesome](https://fontawesome.com/) was also used.
 
-Data hard coded from the github api.
+Data hard coded from the [Github api](https://api.github.com/users) 
 
-Wireframe created using Figma: https://www.figma.com/file/IX2vOv4iitso6jQvbIQyAj/Wireframe_Mid_Mod2_Project?node-id=0%3A1
+Wireframe created using [Figma](https://www.figma.com/file/IX2vOv4iitso6jQvbIQyAj/Wireframe_Mid_Mod2_Project?node-id=0%3A1)
 
-Heroku was used to deploy the app: Click this link to view the website: https://mid-mod2project.herokuapp.com/
-
+Heroku was used to deploy the app: Click this link to view the [Mid Mod Project 2](https://mid-mod2project.herokuapp.com/) 
 See below for a mockup of the app:
 
 ![GitHub Profiles](Mid-Mod2_project_wireframe.svg)
