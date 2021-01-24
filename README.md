@@ -4,7 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Font Awesome was also used.
 
-And data hard coded from the github api.
+Data hard coded from the github api.
+
+Wireframe created using Figma: https://www.figma.com/file/IX2vOv4iitso6jQvbIQyAj/Wireframe_Mid_Mod2_Project?node-id=0%3A1
 
 # The approach was taken
 
