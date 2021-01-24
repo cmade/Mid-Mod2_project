@@ -1,9 +1,16 @@
 import React, { Component } from 'react';
 import UserItem from './UserItem';
-
+// Users class component containing the users hard coded state.
 class Users extends Component {
   state = {
     users: [
+      {
+        login: 'cmade',
+        avatar_url:
+          'https://avatars.githubusercontent.com/u/10188746?s=460&u=ebd07b3fe70fbaf057d8305f7e611d70be2448e1&v=4',
+        url: 'https://api.github.com/users/mojombo',
+        html_url: 'https://github.com/cmade',
+      },
       {
         login: 'mojombo',
         id: 1,
@@ -215,6 +222,7 @@ class Users extends Component {
       },
     ],
   };
+  //Here it renders the state by mapping through each user in the users array of objects. An passes the user properties to the User item component. The user style is passed as a property to the div.
   render() {
     return (
       <div style={userStyle}>
@@ -225,6 +233,7 @@ class Users extends Component {
     );
   }
 }
+//Here we have an object called user style that is using css grid to style the user items
 const userStyle = {
   display: 'grid',
   gridTemplateColumns: 'repeat(3, 1fr)',
