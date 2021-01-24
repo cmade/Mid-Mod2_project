@@ -28,7 +28,7 @@ I wanted to use the api to update the state, but will implement this in the futu
 
 # User stories:
 
-1. User Story: Create wireframe in Figma
+1. Create wireframe in Figma
 2. User Story: Create a navbar component.
 3. User Story: Create a user component to house the state and map through the state while passing the data to the user item component.
 4. User Story: Create a user item component to display each github profile user.
