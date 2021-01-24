@@ -14,7 +14,7 @@ See below for a mockup of the app:
 
 ![GitHub Profiles](Mid-Mod2_project_wireframe.svg)
 
-# The approach was taken
+# The approach taken:
 
 There was a mixture of functional and class based components used in the project.
 
@@ -22,11 +22,11 @@ At least 3 components were created: UserItem, User and Navbar.
 
 There was use of States & Props between the components
 
-# Unsolved problems
+# Unsolved problems:
 
 I wanted to use the api to update the state, but will implement this in the future.
 
-# User stories
+# User stories:
 
 1. User Story: Create wireframe in Figma
 2. User Story: Create a navbar component.
@@ -35,6 +35,6 @@ I wanted to use the api to update the state, but will implement this in the futu
 5. Initialize github repo
 6. Deploy to Heroku
 
-# Notes
+# Notes:
 
 This was a good learning experience.
