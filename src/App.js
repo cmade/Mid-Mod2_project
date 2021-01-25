@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <Fragment className='App'>
-        <Navbar title=' Top 10 Github Profiles' icon='far fa-grin-beam' />
+        <Navbar title=' Discover Github Profiles' icon='far fa-grin-beam' />
         <div className='container'>
           <Users />
         </div>
