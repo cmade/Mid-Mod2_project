@@ -10,9 +10,12 @@ Wireframe created using [Figma](https://www.figma.com/file/IX2vOv4iitso6jQvbIQyA
 
 Heroku was used to deploy the app: Click this link to view the [Mid Mod Project 2](https://mid-mod2project.herokuapp.com/)
 
-See below for a mockup of the app:
+See below for a gif of the app:
 
-<img src="https://media.giphy.com/media/xZJF71rCTnrHki1ngO/giphy.gif" width="1000">
+<img src="https://media.giphy.com/media/xZJF71rCTnrHki1ngO/giphy.gif" width="500">
+
+See below for a mockup of the app:
+![GitHub Profiles](Mid-Mod2_project_wireframe.svg)
 
 # The approach taken:
 
