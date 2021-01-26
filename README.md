@@ -12,7 +12,7 @@ Heroku was used to deploy the app: Click this link to view the [Mid Mod Project 
 
 See below for a mockup of the app:
 
-<img src="https://media.giphy.com/media/xZJF71rCTnrHki1ngO/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/xZJF71rCTnrHki1ngO/giphy.gif" width="1000">
 
 # The approach taken:
 
